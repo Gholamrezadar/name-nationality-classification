@@ -1,7 +1,6 @@
 # Character Level Name Nationality Classification
 
 Classify the nationality of a given name.
-
 [Dataset Link](https://download.pytorch.org/tutorial/data.zip)
 
 
@@ -13,19 +12,20 @@ Classify the nationality of a given name.
 ![training_history](outputs/training_history.png)
 
 ## Model
-MLP:
+### MLP
 ![model](outputs/mlp_model.png)
 
 ## Results
-Confusion Matrix:
+### Confusion Matrix
 ![confusion matrix](outputs/conf_matrix.png)
 
-Classification Report:
+### Classification Report:
 ![report](outputs/report.png)
 
 ## Data Distribution
+### original data
 ![original_data](outputs/original_data_dist.png)
-after filtering the data:
+### after filtering the data:
 ![filtered_data](outputs/filtered_data_dist.png)
 
 ## Example Predictions
