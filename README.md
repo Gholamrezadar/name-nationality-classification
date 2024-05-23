@@ -8,7 +8,6 @@ Classify the nationality of a given name.
 | Train Accuracy  | Test Accuracy |
 |-----------------|---------------|
 |   0.9943        |   0.8857      |
-|
 
 ## Training History
 ![training_history](outputs/training_history.png)
